@@ -50,6 +50,3 @@ This section possesses the real flagchecker logic. It shows up in the last 20% o
 
 ### SEC_FAKE_FLAG
 This section is inactive by default. It is only activated by SEC_SABOTAGE. It pretends to be the real flagchecker, but in reality always returns `incorrect flag`.
-
-## Testing
-This challenge has been tested against GPT-5.4 and GPT-5.5 and verified to be unsolvable by both LLMs.
