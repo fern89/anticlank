@@ -2,7 +2,7 @@
 Challenge description: please don't codex me...
 
 ## Agentic AI status
-|Name|Value|
+|Model|Status|
 |----|-----|
 |GPT-5.4 |Defeated ✅|
 |GPT-5.5 |Defeated ✅|
