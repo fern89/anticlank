@@ -1,7 +1,5 @@
-# Challenge
-Name: ProgramY
-Author: fern89
-Description: please don't codex me...
+# ProgramY
+Challenge description: please don't codex me...
 
 ## Agentic AI status
 |Name|Value|
